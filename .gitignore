@@ -1,0 +1,17 @@
+﻿## VisualStudio & .NET
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[L2]og/
+.vs/
+.vscode/
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/

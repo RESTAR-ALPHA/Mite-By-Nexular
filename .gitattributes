@@ -1,0 +1,7 @@
+﻿# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code files force LF line endings
+*.cs text eol=crlf
+*.json text eol=lf
+*.md text eol=lf
